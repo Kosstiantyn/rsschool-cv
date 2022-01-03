@@ -2,7 +2,6 @@
 
 # Nikitskyi Kostiantyn
 
-
 Junior Frontend Developer
 
 ## Contact information:
@@ -24,4 +23,3 @@ I like to spend a lot of time on what interests me. I am a great team worker and
 ## Experience
 - University: Interregional Academy of Personnel Management. Software engineering.
 - HTML Academy
-
